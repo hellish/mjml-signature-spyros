@@ -7,6 +7,10 @@ run:
 watch:
 	./node_modules/.bin/mjml -w email1.mjml -o email1/index.html
 
+.PHONY: watch2
+watch2:
+	./node_modules/.bin/mjml -w email2.mjml -o email2/index.html
+
 .PHONY: serve
 serve:
 	http-server .
