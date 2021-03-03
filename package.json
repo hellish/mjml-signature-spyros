@@ -1,0 +1,6 @@
+{
+    "name": "mjml-signature",
+    "dependencies": {
+        "mjml": "^4.9.0"
+    }
+}
