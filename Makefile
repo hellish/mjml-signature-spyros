@@ -4,7 +4,7 @@ run:
 
 .PHONY: watch
 watch:
-	./node_modules/.bin/mjml -w email.mjml -o index.html
+	./node_modules/.bin/mjml -w email2.mjml -o email2.html
 
 .PHONY: serve
 serve:

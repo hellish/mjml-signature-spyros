@@ -1,0 +1,61 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" />
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+
+                <mj-table padding-top="0" padding-bottom="22px" font-family="Poppins, sans-serif">
+                    <tr align="left">
+                        <td width="40px">
+                            <img align="left" alt="Logo" width="40px" height="19px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/logo.png" />
+                        </td>
+                        <td align="left" style="padding-left: 20px;">
+                            <div style="font-size:13px;font-weight:500;line-height: 1;padding-bottom:5px;">Spyros Georgiou</div>
+                            <div style="font-size:13px;font-weight:500;line-height: 1;">Graphic Designer</div>
+                        </td>
+                    </tr>
+                </mj-table>
+
+                <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
+                    <tr align="left">
+                        <td width="17px">
+                            <img align="left" alt="Phone" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/phone.png" />
+                        </td>
+                        <td style="color:#0000ff;" align="left">99760604</td>
+                    </tr>
+                </mj-table>
+
+                <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
+                    <tr align="left">
+                        <td width="17px">
+                            <img align="left" alt="Behance" width="12px" height="8px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/behance.png" />
+                        </td>
+                        <td style="color:#0000ff;" align="left">Behance</td>
+                    </tr>
+                </mj-table>
+
+                <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
+                    <tr align="left">
+                        <td width="17px">
+                            <img align="left" alt="LinkedIn" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/linkedin.png" />
+                        </td>
+                        <td style="color:#0000ff;" align="left">LinkedIn</td>
+                    </tr>
+                </mj-table>
+
+                <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
+                    <tr align="left">
+                        <td width="17px">
+                            <img align="left" alt="Dribble" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/dribble.png" />
+                        </td>
+                        <td style="color:#0000ff;" align="left">Dribble</td>
+                    </tr>
+                </mj-table>
+
+                <mj-text font-size="13px" padding-bottom="5px" padding-top="19px" align="left" font-family="Poppins, sans-serif" font-weight="400">spyrosgeorgiou.com</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
