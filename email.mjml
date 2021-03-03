@@ -5,14 +5,14 @@
     <mj-body>
         <mj-section>
             <mj-column>
-                <mj-image padding-bottom="19px" align="left" alt="Logo" width="40px" height="19px" src="/assets/logo.png"></mj-image>
+                <mj-image padding-bottom="19px" align="left" alt="Logo" width="40px" height="19px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/logo.png"></mj-image>
                 <mj-text font-size="11px" padding-bottom="5px" padding-top="19px" align="left" font-family="Poppins, sans-serif" font-weight="500">Spyros Georgiou</mj-text>
                 <mj-text font-size="11px" padding-top="0" font-family="Poppins, sans-serif" font-weight="500">Graphic Designer</mj-text>
 
                 <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
                     <tr align="left">
                         <td width="17px">
-                            <img align="left" alt="Phone" width="12px" height="13px" src="/assets/phone.png" />
+                            <img align="left" alt="Phone" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/phone.png" />
                         </td>
                         <td style="color:#0000ff;" align="left">99760604</td>
                     </tr>
@@ -21,7 +21,7 @@
                 <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
                     <tr align="left">
                         <td width="17px">
-                            <img align="left" alt="Behance" width="12px" height="8px" src="/assets/behance.png" />
+                            <img align="left" alt="Behance" width="12px" height="8px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/behance.png" />
                         </td>
                         <td style="color:#0000ff;" align="left">Behance</td>
                     </tr>
@@ -30,7 +30,7 @@
                 <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
                     <tr align="left">
                         <td width="17px">
-                            <img align="left" alt="LinkedIn" width="12px" height="13px" src="/assets/linkedin.png" />
+                            <img align="left" alt="LinkedIn" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/linkedin.png" />
                         </td>
                         <td style="color:#0000ff;" align="left">LinkedIn</td>
                     </tr>
@@ -39,7 +39,7 @@
                 <mj-table padding-top="0" padding-bottom="0" font-family="Poppins, sans-serif">
                     <tr align="left">
                         <td width="17px">
-                            <img align="left" alt="Dribble" width="12px" height="13px" src="/assets/dribble.png" />
+                            <img align="left" alt="Dribble" width="12px" height="13px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/dribble.png" />
                         </td>
                         <td style="color:#0000ff;" align="left">Dribble</td>
                     </tr>
