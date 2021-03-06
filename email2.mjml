@@ -35,7 +35,7 @@
                         <td width="17px">
                             <img align="left" alt="Behance" width="12px" height="8px" src="https://raw.githubusercontent.com/hellish/mjml-signature-spyros/master/assets/behance.png" />
                         </td>
-                        <td style="color:#0000ff;" align="left">
+                        <td style="color:#0000ff;" font-family="Poppins, sans-serif" align="left">
                             <a href="https://www.behance.net/spyrosgeorgiou" class="link-nostyle">Behance</a>
                         </td>
                     </tr>
