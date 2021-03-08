@@ -3,9 +3,10 @@
         <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" />
         <mj-style inline="inline">
             .link-nostyle { color: inherit; text-decoration: none }
+            .full-width > div { max-width: initial !important; }
         </mj-style>
     </mj-head>
-    <mj-body>
+    <mj-body css-class="full-width">
         <mj-section>
             <mj-column>
 
